@@ -1,0 +1,716 @@
+Title: Consulting Case Interview: A Profitability Case Study with ex-BCG Consultants
+URL: https://youtu.be/gTi8qAVGeCo
+Tags: Finance_Interview, en, medium
+Time: 20260224_181809
+----------------------------------------
+
+welcome everyone in today's case we will
+solve a profitability case where I am
+the candidate and Dua is the interviewer
+for those who don't know him he also has
+a four years of experience at BCG and
+they see how it's going to do as an
+interviewer yeah let's get started
+[Music]
+all right Dennis uh so today's case is
+going to be about our client named simeo
+is a large cement manufacturer in
+Indonesia they are quite big in size
+with one one and a half billion dollar
+revenues but recently in the past two
+years they had an issue where they
+solved a big decline I said they saw a
+big decline in their profits their
+profit margin dropped by eight
+percentage points from 10 to 2 percent
+and the board asked the CEO to identify
+the main reason behind this profit
+Decline and come up with a recovery
+strategy how would you approach this
+case fantastic thanks for the
+opportunity so just to make sure to
+understand the initial ask the client's
+name is semio which is a cement
+manufacturer and we said that they faced
+profitability decline in the past two
+years it used to be ten percent now it's
+two percent and we're hard to help them
+understand some main reasons and also
+help them devise recovery strategies did
+I get it right that's right fantastic
+just to start off with the definition of
+cement is it the one that I see as
+concrete the ones that's used to build
+roads perhaps yeah pretty much all kind
+of infrastructure buildings roads and
+Etc you can suppose that those are the
+the main Target customers okay and we
+say that they're based on Indonesia but
+does the client have any International
+operations yeah they do have they do
+have a slight operations abroad but
+mainly in the region let's say um do we
+know the splits of their revenues most
+of their revenues you can suppose that's
+in Indonesia okay all right and so for
+today's case then is that okay if I just
+only focus on the Indonesia business
+let's go yeah okay fantastic and lastly
+what does the client see as success here
+do we have any Financial or strategic
+objectives with this turnaround
+strategies sure yeah so they want to
+generate at least 500 million dollars
+this within the next three years and
+that's cumulative 500 cumulative yeah
+fantastic that's quite clear if you
+allow me a lot to take a second to jot
+down my thoughts and I'll share my
+framework please do yeah okay thank you
+foreign
+yeah of course that's fantastic in
+today's discussion I would love to
+categorize my thoughts under four
+buckets first of all I would love to
+understand the context surrounding our
+client in the market which will then
+help me my second analysis which is root
+cause diagnosis section this is the part
+where I would like to dig deeper into
+the numbers and really understand where
+the problems are coming from third based
+on those issues that we figure out I
+would love to discuss some recovery
+strategies and finally as my fourth
+section would love to discuss some risks
+now getting into the details to
+understand our clients context first of
+all we see that the clients in the
+cements business but we didn't really
+hear many numbers earlier would love to
+understand their business splits in
+terms of could be the product segments
+within cement if there is some high tech
+and low-tech product segments and I
+would love to discuss the geographical
+split we set to focus on Indonesia but
+maybe within Indonesia with the regions
+behave differently and then would love
+to get to the customers so I would
+imagine that some construction sites
+developers might be interested in our
+products so would love to see the split
+of our revenues right now and lastly we
+should look at the competition there
+market share I would love to emphasize
+that the areas that I mentioned so far
+are just the snapshots I don't want to
+get into the trends yet this will just
+help me really understand the problem at
+hand yeah now to dig deeper in the root
+cause identification area I would like
+to divide it into two quantitative and
+qualitative it goes analysis on the
+quantitative part we say that there is a
+drop of eight percentage points in the
+margins does it come from the revenue
+drop or a cost increase or both we
+should definitely take a look at this
+based on different Revenue splits based
+on customers geographies and such if
+there is any specific segment that is
+suffering more than the other
+and as we do this we should compare it
+with the competition we should see if
+this issue is only specific to our
+client or whether we also see it
+marketwide
+and as we do those numerical analysis
+we should also understand the underlying
+drivers behind it so more of a
+qualitative root cause analysis what I
+mean by this is
+say our profitability is going down
+specifically our costs are going up in
+one segment we would love to dig deeper
+into understanding is it because of the
+labor union problems or perhaps just the
+wages overall increase throughout the
+country so really just digging deeper
+into those issues sure in terms of the
+recovery strategies I don't know the
+problem yet but just broadly we can
+categorize it under direct and indirect
+strategies so on the direct based on
+whatever problems that we will figure
+out whether it's on the revenue or cost
+side we can look into ways to improve it
+by directly solving those issues and on
+the indirect strategies say our
+profitability is going down but we can't
+do much about it can we make up for that
+loss via focusing on other regions some
+Revenue Improvement ideas and such would
+be useful to discuss and loss in terms
+of the risks so these are the risks of
+those strategies that we will develop
+which I don't know yet but perhaps we
+can look into the likes of customer
+adoption or regulatory aspects how does
+my framework sound like that sounds
+quite comprehensive I really loved it
+and yeah then my question is which
+specific section in the framework you
+would like to focus now let's delve into
+our Canada's performance during the case
+study so far starting with his strengths
+the candidate showed strong business
+Acumen by avoiding the common mistake of
+immediately delving into revenue or cost
+Trends in profitability case studies
+instead he took a thoughtful approach
+first trying to grasp the fundamentals
+of the case like understanding the
+nature of the cement product identifying
+key customer segments and examining the
+geographical coverage
+in terms of communication he was very
+effective at making complex Concepts in
+his framework easy to understand he
+first outlined the broad components
+before going into detailed specifics
+maintaining Clarity throughout
+moreover he consistently used non-verbal
+communication often making eye contact
+with the interviewer which helped keep
+the conversation engaging and personal
+however even with these strengths there
+is an area for improvement despite not
+greatly affecting his overall
+performance the candidate could enhance
+his root cause analysis incorporating
+factors such as price trends volume
+changes and variable and fixed cost
+Trends into his framework would give it
+more depth and offer a more holistic
+view of the situation
+yeah for sure I mean let's start with
+the First Column we said earlier that
+our clients the cement business do we
+know how big they are and whether we
+have any segmentation regarding his
+geographies or product split okay
+um so this size uh regarding the so our
+size is 1.5 million billion dollars as I
+said and regarding the geography it's
+you can suppose that it's mainly within
+the country Indonesia and regarding the
+products
+we used to have some other products but
+now we only have one type of product and
+which is ordinary Portland cement that's
+called and this type of product is sold
+to the large companies that we work
+traditionally uh with and we can suppose
+that this is the market that we are
+targeting with only one single product
+got it and when you send that we are
+only operating in Indonesia or that is
+the number we should take do we have any
+further segmentation into certain cities
+or should I just look into it
+Countrywide yeah Country-Wide you can't
+close the country fantastic and then we
+said that the only product is ordinary
+important cement and you said that we're
+selling it to large companies so what
+kind of companies do we deal with do we
+have any segmentation Yeah so basically
+we have three groups of companies first
+one is the construction firms that work
+in a big or infrastructure projects uh
+like roads Subways Etc and then we have
+have heavy construction firms that build
+large buildings private or public funded
+and we have small construction firms so
+three segments okay so just to clarify I
+got the second and third so the second
+one is heavy construction companies the
+third is small customer segments the
+small construction companies what was
+the first one again uh the construction
+firms work on large infrastructure got
+it okay fantastic and do we know the
+splits by any chance uh not the trend
+perhaps but as of today yeah so
+um I can show you an exhibit and you can
+find the related information in exhibit
+number one sure let's do that thank you
+please find the exhibit number one okay
+let's take a second to take a look at it
+yeah sure
+brilliant here we see that out of this
+1.5 billion dollars of the client's
+total revenues the vast majority of the
+business is with large infrastructure
+companies and I would say some around
+almost 70 percent then it's followed by
+heavy construction light construction
+company so we're dealing with a huge
+issue here of profit margin decline so
+perhaps the issues come from the large
+infrastructure given how big they are
+but to further validate this hypothesis
+do we have any data regarding the
+revenue or even the cost trends for each
+of those custom segments yeah sure good
+summary so we don't have information on
+the cost side related like segment
+specific information on the cost side
+but we have segment specific information
+regarding revenues right I can show you
+another exhibit if you like showing the
+trend of the revenue evolution by
+segment let's do that you can find it at
+exit number two thank you so much I'll
+again take a second pressure
+fantastic it seems that besides having
+the revenue level data we actually have
+one level deeper which is quantity and
+price side and it seems that looking
+into the quantity first then I'll
+discuss the price Evolution on the on
+the quantity side we see a drop in large
+infrastructure as well as the heavy
+construction projects over time but the
+issue within large infrastructure is
+bigger here and in terms of the price
+side it seems like we've actually
+increased the price so I'm not really
+sure if this is an issue so I would love
+to further discuss why we see a drop in
+the volumes of those two segments here
+there are only two possibilities either
+the market is going down or that we're
+losing market share do we have any data
+regarding those yeah very good analysis
+actually and so
+um former hypothesis is correct so
+Market is going down especially in the
+big projects so those projects were are
+traditionally funded by the government
+and in the past years and it's an issue
+across all emerging economies but
+especially in the Indonesia there have
+been also a decline in the public
+spending on infrastructure so it caused
+a lot of
+um like reaction from this manufacture
+construction firms they cut the demand
+as a result and that that's how we we
+struggle at this point as well and it's
+not due to covet or is there any other
+reason uh no it's it's a general code
+contributed to that a little bit but
+it's just like General trajectory
+um across emerging market economics so
+this in the coming crisis and that led
+to a market shrinkage and then as a
+result our client was unable to sell as
+much in the past several years but just
+to be sure do we see any decline in the
+market sure did it stay stable
+it's uh the same I have the same for
+that segment fantastic
+um so then this would mean that other
+competitors also face the similar issue
+very similar issue okay
+um that's fantastic looks like now we've
+exhausted our Revenue diagnosis now
+let's move on to the call so you said
+that we don't have any data on the
+segment level but do we have anything on
+the Consolidated level by any chance
+because I want to make sure that there
+is nothing wrong on the call side sure I
+can show you our piano for the past
+three years if it works yeah thanks for
+that awesome so please find exhibit
+number three where you can see the
+variable cost fixed cost and okay that's
+great I'll just take a second
+great here I see ebeta which I think is
+profits right and then we have fixing
+the variable cost and if we sum all of
+those three figures we should get to
+revenues right which is at the top of
+the bar sure okay it is clear that there
+is a revenue decline we've discussed
+this before now moving on to the cost
+side uh so let's get started first with
+the fixed costs it used to be 272 which
+then increased to 80. in terms of the
+percentages though it is a very minimal
+increase so I'm not too bothered by it I
+would imagine that it might be even due
+to inflation or other reasons uh of
+course it it probably contributed to an
+extent but probably not the major
+concern of ours yeah in terms of
+variable costs I see variable costs
+going down similar to the revenues but
+we don't know whether
+it is going down proportionately
+if you allow me a lot to just take a
+second and would love to compare those
+two years maybe 2020 and 2022 just to
+make sure that the variable costs remain
+the same in terms of Revenue uh ratios
+yeah okay let's try to calculate the
+unit's uh variable cost change fantastic
+all right so on 2020 I need to divide uh
+1.35 or 1350 by 1800 to get to the ratio
+so those two values should be divided by
+450 so that's three divided by four
+seventy five percent is the variable
+cost of Revenue ratio on 2020 now moving
+to 2022 is that okay if I skip 2021 yeah
+that's that's only compared 22 2020.
+okay fantastic that saves me some time
+now let's do the similar calculation
+here and divide 1200 by 1500 each values
+could be divided by 300 so it's 80
+percent sense interesting it seems like
+there is an increase in the ratio of
+variable cost of revenues from 75
+percent to 80 okay what this tells us is
+the following in a normal business in in
+a normal business cycle you would expect
+variable cost to revenues ratio to
+remain the same but in this case there
+is an increase so I would love to
+understand what might be some causes to
+that do we have any data yeah what might
+be the main reasons for this so we said
+earlier something about the economic
+crisis right so this means there's a
+lower demand and I would imagine that if
+there is lower demand for such raw
+materials whatever we use to make
+concrete or cement in this case due to a
+lower demand if the supply doesn't
+change the cost or the price would go up
+the procurement cost so that's that
+could be one reason or maybe the client
+recently changed the supplier and now
+they have any inferior deals do we have
+any information regarding those yeah so
+um both of those reasons and potentially
+a correct on top of that we have another
+issue which is the change in the the
+currency rate so the currency
+depreciated against dollars and it
+increased actually
+um some cost cost of some items that
+we're using as a variable cost so that's
+also one of the reasons contributing to
+this trend so our client is procuring
+their products based on the foreign
+exchange denominated
+products interesting so just to
+summarize our learning so far there are
+two main issues one of them is on the
+revenue side we're selling less to our
+major accounts because there is economic
+crisis right and the second issue we
+discussed is our Rising especially the
+variable costs yes there is some issue
+on the fixed cost but more on the
+variable cost that because economic
+crisis and you know it led to some
+inferior deals for us if there is
+nothing else the ads is now okay if I
+come up with some recovery strategies
+yes let's go to the next section okay
+fantastic for this I would need a minute
+if you don't mind to come up with some
+ideas yeah please take care thank you
+let's take a moment to review the key
+strengths of our candidates performance
+so far
+firstly we have case leadership the
+candidate demonstrated strong leadership
+throughout the case he adhered to his
+framework and took the initiative to
+suggest next steps effectively reducing
+the need for prompts from the
+interviewer next let's discuss exhibit
+reading the candidate was meticulous in
+his approach to each exhibit always
+taking the time to fully understand and
+digest the information presented this
+helped him to quickly draw out
+meaningful insights and articulate
+potential root causes of the
+profitability decline finally problem
+solving here our candidate truly
+excelled when faced with one of the
+case's most complex challenges
+identifying issues with variable cost
+structure he didn't falter instead he
+suggested comparing variable costs to
+revenues a strategy that mirrors those
+used in real-world Consulting scenarios
+I'm going to use my earlier structure
+which is direct and indirect strategies
+here on the direct side let's look into
+revenues in the course aspect so on the
+revenues the issue was the economic
+crisis and I'm not entirely sure how
+much we could do for that but when I
+look into the segments
+um
+perhaps there is a way for us to justify
+a higher price so I don't really know
+cement is a commoditized product but if
+there is anything we can do as an added
+on maybe service the maintenance
+services or payback guarantees and such
+then we might be able to increase our
+price point but in terms of the volumes
+I'm not entirely sure if there is
+anything to be done there especially on
+the segments that we're losing in terms
+of the cost sides we can look into ways
+to reduce our variable costs because we
+learned earlier that we're currently
+having it on foreign exchange rate so is
+there any way for us to perhaps fix the
+exchange rates something we've seen many
+developing countries and get better
+deals for us or simply change the
+supplier that could also be another way
+of doing it on the fixed costs and maybe
+there's a way for us to optimize our
+labor or you know rent payments and so
+on in terms of the indirect strategies
+I do not fully recall the name of the
+segment but that was one segment in one
+of the previous exhibits where we see an
+increase in the sales I think it was
+light construction companies yeah right
+and so I know that it is a small
+business but at this stage any increase
+would help our clients if there's any
+way for us to double down on the segment
+that could also be useful what do you
+think of the ideas okay so
+um regarding new products we don't have
+a good experience in launching new
+products in the past so I don't think
+that the management team will welcome
+this idea much and regarding cutting
+costs so you're right with this
+suppliers actually it's one of the one
+of the key areas where we can
+potentially cut some costs but we
+renewed almost all of our projects with
+new suppliers in the past year so that
+option already tried and regarding new
+segments
+um so this is not our strong arm and we
+don't think that we can still much
+market share if we focus concentrate on
+this small uh manufacturing small
+construction companies even though we
+increase our revenues we will face huge
+competition there so neither of the
+options will help much actually okay
+um so I'm a bit puzzled here if we
+cannot do anything what could we do I
+don't know something maybe
+extraordinary solution that we can come
+up with I I really don't know that's why
+we are asking you okay um May I just
+take another second then to think about
+some additional ideas sure please
+interesting
+ah okay I think that is something we
+could do
+if there is not much we can do maybe
+there is a way for us to reduce our
+recurring expenses whether it is fixed
+on the variable cost Side by shrinking
+the business
+um I I do see it in many cases
+especially recently as well due to
+covets and many of the retail oriented
+and statement oriented businesses
+actually did have to shut down but then
+they're starting to open back their
+business so I'm wondering if the client
+would consider some drastic measures
+like this maybe not a full shrinkage but
+um you know a reduction of their certain
+operations especially where we are
+unprofitable may help us in saving some
+of our recurring costs maybe fixed costs
+especially and ideally once the economy
+starts to recover we can again double
+down on the segments that would give us
+a good profitability
+okay so it's it's like it's because we
+have an objective of 500 million so you
+try to find some ways to generate 500
+Millions by by shrinking like our size
+selling something yeah is that what you
+mean exactly so I would also Imagine you
+raise a great point we can even make
+money through sales of certain assets
+perhaps to get to that level but in any
+case I find this very challenging
+because the class total revenues are 1.5
+billion and we're seeing that we want to
+generate a cumulative total cash of 500
+million in the next couple years I'm not
+entirely sure if this is even feasible
+to start with yeah that's that makes a
+lot of sense actually so correct yeah
+great um would you like me to discuss
+some risks as well in addition to the
+ones that we discussed before we
+conclude please if you allow me I'd like
+to actually walk you through out loud
+now the first thing I'm thinking about
+is this economic downturn element we
+need to make sure or at least we need to
+do more forecasting to understand in how
+many years we would expect the economy
+to go back because if economy continues
+behaving the way it is right now there
+won't be any more business so we need to
+make sure that we look into this and the
+second aspect is the competition here we
+said earlier that our market share
+declined as per the overall market and
+hence our market share didn't change
+meaning probably other competitors are
+doing similar business to us but in the
+future if there is another ordinary
+Portland segment maybe there is a new
+more Innovative product
+um we may actually see a decline in our
+sales more so I would also love to check
+with the client if they have any other
+you know more uh maybe a high-tech
+solution and Alternatives that they can
+also work in parallel to their
+day-to-day operations how does it sound
+yeah it sounds good actually but like um
+for the economic downturn I won't be
+much concerned because we already
+experienced that and we don't have an
+investment we don't have an expansion
+plan so I will not be concerned much
+about it I think it's good time to cut
+some costs and for the competition our
+issues a little bit more internal it's
+not like
+um like Market facing initiative we are
+taking so
+um competition in shrinkage will not
+will not hurt much actually so neither
+of the risks are very vital for now so I
+think you found the conclusion and we
+can go ahead and close it at this point
+yeah okay may I just take a moment for
+it please do yeah
+fantastic based on our analysis I would
+tell the client the following first of
+all it seems that there are two major
+factors behind this profitability
+decline of eight percentage points first
+of all the overall Market is shrinking
+in the past two years and as a result uh
+there is now less spending on heavy
+construction large infrastructure
+projects and as a result we're making
+less of a sale
+second problem contributing to this is
+our recent variable cost structure yes
+our variable costs are going down but
+it's not going down in proportion to the
+revenue Decline and that is just simply
+because our deals were fixed on or our
+deals were based on foreign exchange
+rate now in terms of coming up with the
+solutions we've looked into many
+Alternatives but it seems like the one
+that we can really do at the stage is to
+shrink our business to an extent that
+ideally it will give us some of a
+shelter until the economy recovers but
+at the same time through sales of
+certain assets we might be able to make
+some money however I would love to
+emphasize that given how big they are
+right now a sales of 500 million dollars
+or the objective of it rather may not be
+feasible through a simple sales of
+assets so it is a number that they need
+to look into a little bit closer and in
+terms of the next steps I would love to
+tell the client that we are here to help
+them in the implementation of the
+strategies and of course we can looking
+to further on what other ways we could
+improve their profitability sounds good
+perfect great conclusion thank you so
+much thank you thank you overall the
+candidate demonstrated a strong
+performance throughout the case
+showcasing a variety of essential skills
+let's delve a bit deeper into the
+details under problem solving and
+insights his structure was comprehensive
+but could have been further strengthened
+with the explicit mention of price
+volume and variable and fixed costs his
+judgment was marked by strong business
+Acumen which aided him in pinpointing
+the causes of profit Decline and
+devising potential turnaround strategies
+as for rigor despite the case not being
+heavily number oriented he showcased his
+analytical prowess by running the
+variable cost ratios and pinpointing
+that the 500 million dollar cash
+objective might not be met
+in terms of creativity he successfully
+identified the underlying drivers of the
+revenue Decline and cost increase and
+adeptly proposed effective turnaround
+strategies
+finally his synthesis skills were on
+point as a proficiently interpreted each
+exhibit and delivered a conclusion that
+covered both the diagnosis and proposed
+turnaround strategies
+moving on to communication and presence
+his presence was marked by a commendable
+level of confidence and by taking
+occasional pauses to gather his thoughts
+he was able to maintain his composure
+throughout the case
+Precision was another strength his
+concise responses and prompt insights
+ensured the case was completed in less
+time than usual in the realm of active
+listening he responded well to the
+interviewer but could have clarified
+earlier whether the 500 million dollar
+objective referred to profits cash or
+revenues lastly under relationship
+management he successfully established a
+positive rapport with the interviewer
+keeping him engaged throughout the case

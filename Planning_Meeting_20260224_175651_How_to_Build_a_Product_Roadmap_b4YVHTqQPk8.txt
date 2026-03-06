@@ -1,0 +1,218 @@
+Title: How to Build a Product Roadmap in 6½ Simple Steps
+URL: https://www.youtube.com/watch?v=b4YVHTqQPk8
+Tag: Planning_Meeting
+Timestamp: 20260224_175651
+----------------------------------------
+
+navigating product development without a
+roadmap is likely trying to assemble
+Ikea furniture without instructions
+letting be a guide to building a
+Flawless product without enemies and
+screws or extra parts hi I'm Elia the
+founder of elegant a product design
+Agency for SAS today I'll show you how
+to prevent chaos and confusion in the
+product development process via roadmap
+how to build the right roadmap for you
+and what tools to use
+but first of all what is a roadmap it is
+a visual representation of your product
+strategic development it helps you
+clearly communicate what and why of your
+strategy to all stakeholders from
+investors to internal teams with the
+solid roadmap you'll be able to Foster
+teamwork and streamline the development
+process you might be wondering do I
+really need a product roadmap product
+managers often say no roadmaps advise
+contact with reality can I use just
+backlog or to-do list instead not really
+because smart roadmaps can change the
+way we find Opportunities talk about
+them and create problem-solving products
+now let's take a look at some example of
+different types of roadmaps you can use
+there is no one-size-fits-all approach
+your roadmap can vary depending on your
+industry project goals and audience some
+popular types include now next later
+roadmap feature-based goal-based
+strategy and release roadmap let's take
+a closer look at all of the types now
+next later this roadmap categorizes
+tasked By Priority with now indicated
+immediate task next being short-term
+objectives and later for long-term goals
+this approach keeps your team focused on
+the most important tasks at hand feature
+based this type of roadmap focused on
+individual features and their release
+dates it's particularly useful for
+development teams and its highlights
+which features need to be completed by
+one here's an example where all the
+features are sorted according to the
+quarters which makes it easy to
+understand how different product
+elements are going to evolve this time
+goal based goal based roadmaps
+prioritize company-wide objectives and
+Link them to specific product
+initiatives this approach is great for
+aligning your product with your
+organization's long-term Vision strategy
+strategic roadmaps focus on High level
+product goals and initiatives this type
+particularly helpful for communicating
+with stakeholders and Executives
+ensuring everyone is aligned on the
+overall product Direction release
+release roadmaps provide an overview for
+Planned releases and their corresponding
+features this type is useful for
+coordinating work across different teams
+and departments ensuring everyone is in
+line on what's coming up which roadmap
+format do you think would work best for
+a specific project or industry please
+let me know in the comments now how to
+create your product roadmap creating a
+product roadmap can seem done it but
+don't worry I'm here to guide you
+through the process I'll give you seven
+essential steps to building an effective
+roadmap let's explore them one by one
+step one defining why your product
+exists start by establishing a Clear
+Vision and purpose for your product this
+will help you prioritize the features
+and goals that align with that vision
+for more in-depth discussion on product
+Vision I highly recommend checking out
+my other video Step 2 identifying who's
+going to use your roadmap determine your
+target audience whether it's internal
+teams stakeholders or both knowing your
+audience will help you choose the right
+format and the level of detail for your
+roadmap step 3 gather input and feedback
+collaborate with cross-functional teams
+such as development Marketing sales and
+customer support to gather diverse
+perspectives and insights this will
+ensure your roadmap is well-rounded and
+relevant to all stakeholders step number
+four determine the main themes and start
+creating the roadmap based on your
+product Vision goals and feedback from
+your team start identifying the main
+themes or objectives for your roadmap
+this would be feature set strategic it
+is or customer focused goals step number
+five break down themes into actionable
+items once you've identified the main
+themes break them down into smaller
+actionable tasks or features assign time
+frames and priorities to each of them to
+create a clear roadmap structure step
+number six choose the right roadmap
+format based on your audience and goals
+select the most suitable roadmap type
+from the options we discussed earlier
+customize your roadmap format to best
+communicate your product strategy step
+number six and a half review and update
+your roadmap regularly product measures
+who said that no roadmaps arrives after
+the contact with reality are right to
+some extent a product roadmap is a
+living document that will evolve with
+your product regularly review and update
+your roadmap to ensure it remains
+relevant and reflects any changes and
+priorities or goals by following these
+seven steps you will be able to create a
+product roadmap that promotes a smooth
+and effective development process the
+last thing I will share with you today
+is the list of free and paid product
+roadmap tools the First on our list are
+spreadsheet applications the easiest and
+completely free option is to create a
+roadmap in Excel Google Sheets or
+another spreadsheet application
+advantages free of charge easy to
+navigate ability to view changes if it's
+in Cloud these advantages difficult to
+make quick changes no templates Road
+monk Road monk is convenient application
+which contains a lot of templates for
+different purposes portfolio development
+it product General strategy Etc there
+are several options for displaying the
+roadmap in addition there are a 14-day
+trial advantages a wide choice of
+templates two options for displaying the
+roadmap chat for current tasks separate
+block with ideas these advantages
+doesn't allow setting up Sprints
+multiple milestones and projects can
+visually overwrap and make the roadmap
+difficult to read entry low price 19 per
+user per month product plan an
+application is similar in functionality
+to previous one it includes samples and
+has advanced integration with services
+such as jira GitHub slack pivotal
+tracker trailer Azure devops Confluence
+Microsoft teams Etc advantages easy to
+navigate several options for displaying
+the roadmap chat for current tasks
+separate block with ideas
+synchronization with popular project
+trackers disadvantages no predefined
+templates entry level price 39 dollars
+per editor per month jira roadmap jira
+roadmaps are available in different
+versions for different jira software
+Cloud subscriptions the obvious benefit
+for jira users is easy integration
+advantages includes with jira software
+Cloud white possibilities for
+customizing roadmaps disadvantages
+schematic matte display complex
+interface entry level price it's free
+aha product the advantage of the
+application aha is a free version for
+startups in general the application
+interface is overloaded with details
+advantages wired possibilities for
+customized in road maps disadvantages
+schematic map display and complex
+interface entry level price 59 per
+editor per month higher an interesting
+alternative to standard roadmaps created
+especially for developers the app
+consists of a project tracker and a
+roadmap available effective free version
+advantages integration with the project
+tracker integration with the third party
+Services disadvantages in official
+visual display of the map and camp Alex
+interface entry level price it's free so
+there you have it with a well-crafted
+product roadmap you can bring Clarity
+and focus to your product development
+process remember to Define your products
+purpose identify your audience and be
+ready to make changes along the way good
+luck and happy Road mapping and if you
+find this video helpful don't forget to
+hit the like button and subscribe to our
+channel for more tips on product
+management and design thanks for
+watching
+[Music]
+thank you
